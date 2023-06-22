@@ -1,0 +1,74 @@
+   
+.pollo{
+   list-style-type:none ;
+   
+}
+.Goku{
+  list-style-type:none ;
+}
+.flora{
+   width:250px ;
+   height: 250px;
+   border-radius: 45%;
+   position: absolute;
+   top: 295px;
+   left: calc(67% - 70px); 
+
+   } 
+   .back{
+    width:70px ;
+    height: 70px;
+    border-radius: 15%;
+    position: absolute;
+    top: 520px;
+    left: calc(93% - 0px); 
+
+    }
+    .donde{
+      width:70px ;
+      height: 70px;
+      border-radius: 58%;
+      position: absolute;
+      top: 420px;
+      left: calc(93% - 0px); 
+  
+      }
+      .cell{
+        width:70px ;
+        height:70px;
+        border-radius: 58%;
+        position: absolute;
+        top: 320px;
+        left: calc(93% - 0px); 
+    
+        }
+   /*catalogo*/
+   .alta{
+    
+    width:250px ;
+    height: 250px;
+    border-radius: 100%;
+    position: absolute;
+    top: 50px;
+    left: calc(5% - 70px); 
+  background-color:blue;
+    
+   }
+   .media{
+    width:250px ;
+    height: 250px;
+    border-radius: 85%;
+    position:absolute;
+    top: 50px;
+    left: calc(45% - 70px); 
+  background-color:rgb(0, 177, 247);
+   }
+   .baja{
+    width:250px ;
+    height: 250px;
+    border-radius: 85%;
+    position: absolute;
+    top: 50px;
+    left: calc(80% - 70px); 
+  background-color:blue;
+   }
